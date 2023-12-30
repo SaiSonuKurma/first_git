@@ -1,0 +1,16 @@
+#Scalars
+name: Sonu
+Location: Polavaram
+#Lists
+Hobbies:
+  - Sleeping
+  - Using Mobile
+  - watching Football
+#Mappings
+FavoritesFoods:
+  Fruits: Apple
+  Drinks: Pulpy orange
+#Multilinescalar
+whatisyaml:
+  We are using this for building
+  the pipeline in Azure devops
